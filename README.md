@@ -36,7 +36,7 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fit-s-u-m)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fit-s-u-m)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fit_s_u_m)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
