@@ -27,7 +27,7 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 - :telescope: I’m Computer Engineering student and content creater on youtube.
 - :zap: Passionate about math, algorithms, and creating interactive tools for learning.
 - :video_game: Enjoy building games
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently working on visualization tools for sorting algorithms.
 
 ---
 
@@ -35,8 +35,6 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fit-s-u-m)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fit_s_u_m)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
