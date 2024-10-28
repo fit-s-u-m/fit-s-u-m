@@ -34,8 +34,6 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fit-s-u-m)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### :writing_hand: Blog Posts :
