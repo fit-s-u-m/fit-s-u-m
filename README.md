@@ -40,4 +40,8 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [bubble-sort](https://quartz.jzhao.xyz/Algorithms/bubble-sort)
+- [insertion-sort](https://quartz.jzhao.xyz/Algorithms/insertion-sort)
+- [selection-sort](https://quartz.jzhao.xyz/Algorithms/selection-sort)
+- [Algorithms](https://quartz.jzhao.xyz/Algorithms/sorting-algorithms)
 <!-- BLOG-POST-LIST:END -->
