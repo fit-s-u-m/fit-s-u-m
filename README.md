@@ -37,9 +37,8 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [bubble-sort](https://fit-s-u-m.github.io/Algorithms/bubble-sort)
-- [insertion-sort](https://fit-s-u-m.github.io/Algorithms/insertion-sort)
-- [selection-sort](https://fit-s-u-m.github.io/Algorithms/selection-sort)
-- [Algorithms](https://fit-s-u-m.github.io/Algorithms/sorting-algorithms)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->bubble-sort
+...insertion-sort
+selection-sort
+select the minimum and swap with the first select the minimum from the second item and swap with the second.Algorithms
+An algorithm is a step by step set of instructions or a process used to solve a problem or perform a task. just like a cooking book When you learn about algorithms the first thing that comes to mind is sorting.<!-- BLOG-POST-LIST:END -->
