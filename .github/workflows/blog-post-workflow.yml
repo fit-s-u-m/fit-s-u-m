@@ -15,6 +15,5 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://fit-s-u-m.github.io/index.xml"
-          template: "$title$newline$description"
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} 
