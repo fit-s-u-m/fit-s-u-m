@@ -50,4 +50,8 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Personal Notes](https://fit-s-u-m.github.io/)
+- [bubble-sort](https://fit-s-u-m.github.io/Algorithms/bubble-sort)
+- [insertion-sort](https://fit-s-u-m.github.io/Algorithms/insertion-sort)
+- [selection-sort](https://fit-s-u-m.github.io/Algorithms/selection-sort)
 <!-- BLOG-POST-LIST:END -->
