@@ -43,9 +43,14 @@ I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Personal Notes](https://fit-s-u-m.github.io/)
-- [bubble-sort](https://fit-s-u-m.github.io/Algorithms/bubble-sort)
-- [insertion-sort](https://fit-s-u-m.github.io/Algorithms/insertion-sort)
-- [selection-sort](https://fit-s-u-m.github.io/Algorithms/selection-sort)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UC406o5hHOU"><img width="140px" src="http://img.youtube.com/vi/UC406o5hHOU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UC406o5hHOU">Insertion sort visualized</a><br/>Oct 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=USq1NnfhV2Y"><img width="140px" src="http://img.youtube.com/vi/USq1NnfhV2Y/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=USq1NnfhV2Y">Iterator Pattern, In Amharic</a><br/>May 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=y5sdg_IRYqc"><img width="140px" src="http://img.youtube.com/vi/y5sdg_IRYqc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y5sdg_IRYqc">The story of Ethiopian multiplication.</a><br/>Apr 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8NvueNKbQiY"><img width="140px" src="http://img.youtube.com/vi/8NvueNKbQiY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8NvueNKbQiY">guess this set?</a><br/>Apr 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=I6zMjpxpUXs"><img width="140px" src="http://img.youtube.com/vi/I6zMjpxpUXs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I6zMjpxpUXs">data structures</a><br/>Mar 22, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
