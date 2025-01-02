@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjdXB1MXJ5M2hxZHA4aHpyaHFsdGw4YXF4Nm81MmZhcW9tYWFzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QX7nMrAHVN0FFD7EtK/giphy.gif" width="100"/>
    <div id="badges">
-     <a href="linkedin.com/in/fit-s-u-m">
+     <a href="https://linkedin.com/in/fit-s-u-m">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
-     <a href="youtube.com/@Nehemiah-zm1ip">
+     <a href="https://youtube.com/@Nehemiah-zm1ip">
        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
      </a>
-     <a href="fit-s-u-m.github.io">
-       <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge" alt="Blog Badge"/>
-     </a>
+<a href="https://fit-s-u-m.github.io">
+  <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge" alt="Blog Badge"/>
+</a>
    </div>
    <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4aHRhZWlkYXZjNzd0cXU4dnl2bnZ1YXE0YWx2Mm5mZGZ6amlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" height="400"/>
