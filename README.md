@@ -22,7 +22,7 @@
 ### :technologist: About Me :
 
 
-I am Fitsum <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Exploring the worlds of math, code, and creativity, one project at a time..
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Exploring the worlds of math, code, and creativity, one project at a time..
 
 - :telescope: I’m Computer Engineering student and content creater on youtube.
 - :zap: Passionate about math, algorithms, and creating interactive tools for learning.
