@@ -33,12 +33,12 @@
 
 ### 🎥: My Youtube Videos :
 <!-- BEGIN YOUTUBE-CARDS -->
+[![OOP VS Functional Programming in Amaharic](https://ytcards.demolab.com/?id=8znC9EPbcUk&title=OOP+VS+Functional+Programming+in+Amaharic&lang=en&timestamp=1761159559&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OOP VS Functional Programming in Amaharic")](https://www.youtube.com/watch?v=8znC9EPbcUk)
 [![Insertion sort visualized](https://ytcards.demolab.com/?id=UC406o5hHOU&title=Insertion+sort+visualized&lang=en&timestamp=1729311485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Insertion sort visualized")](https://www.youtube.com/watch?v=UC406o5hHOU)
 [![Iterator Pattern, In Amharic](https://ytcards.demolab.com/?id=USq1NnfhV2Y&title=Iterator+Pattern%2C+In+Amharic&lang=en&timestamp=1715626214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Iterator Pattern, In Amharic")](https://www.youtube.com/watch?v=USq1NnfhV2Y)
 [![The story of Ethiopian multiplication.](https://ytcards.demolab.com/?id=y5sdg_IRYqc&title=The+story+of+Ethiopian+multiplication.&lang=en&timestamp=1713141925&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The story of Ethiopian multiplication.")](https://www.youtube.com/watch?v=y5sdg_IRYqc)
 [![guess this set?](https://ytcards.demolab.com/?id=8NvueNKbQiY&title=guess+this+set%3F&lang=en&timestamp=1712346194&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "guess this set?")](https://www.youtube.com/watch?v=8NvueNKbQiY)
 [![data structures](https://ytcards.demolab.com/?id=I6zMjpxpUXs&title=data+structures&lang=en&timestamp=1711109305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "data structures")](https://www.youtube.com/watch?v=I6zMjpxpUXs)
-[![Rust in amaharic using rustling part1](https://ytcards.demolab.com/?id=ECb0Bzt2hBo&title=Rust+in+amaharic+using+rustling+part1&lang=en&timestamp=1709503830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rust in amaharic using rustling part1")](https://www.youtube.com/watch?v=ECb0Bzt2hBo)
 <!-- END YOUTUBE-CARDS -->
 
 ---
