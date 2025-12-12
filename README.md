@@ -22,12 +22,12 @@
 ### :technologist: About Me :
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Exploring the worlds of math, code, and creativity, one project at a time..
-
-- :telescope: I’m Computer Engineering student and content creater on youtube.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I use Arch btw.
+And Vim. Yes, willingly.
+- :telescope: Computer Engineering student who explains things on YouTube because my friends got tired of my 2-hour rants about algorithms.
 - :zap: Passionate about math, algorithms, and creating interactive tools for learning.
 - :video_game: Enjoy building games
-- :seedling: Currently working on visualization tools for sorting algorithms.
+- :seedling:  Currently focused on **Retrieval-Augmented Generation (RAG)** and **vector stores**, learning how to integrate LLMs with structured external knowledge sources in practical, reliable ways.
   
 ---
 
@@ -47,6 +47,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
 
+---
+🚀 Fun Facts
+
+- I don’t use a mouse — I fight it.
+- I code fast because Vim won’t let me rest.
+- My config files are worth more than my laptop.
+
+---
+☕ Support My Work
+
+Send coffee. Or merge my PRs. Preferably both.
+  
 ---
 
 ### :writing_hand: Blog Posts :
