@@ -39,8 +39,8 @@ And Vim. Yes, willingly.
 ---
 
 ### :fire: My Stats :
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
-![](https://githubcard.com/fit-s-u-m.svg?d=gNFVySo_)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) 
+<!-- ![](https://githubcard.com/fit-s-u-m.svg?d=gNFVySo_) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
 
