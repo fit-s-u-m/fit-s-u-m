@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjdXB1MXJ5M2hxZHA4aHpyaHFsdGw4YXF4Nm81MmZhcW9tYWFzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QX7nMrAHVN0FFD7EtK/giphy.gif" width="100"/>
    <div id="badges">
      <a href="https://linkedin.com/in/fit-s-u-m">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,12 +10,8 @@
   <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge" alt="Blog Badge"/>
 </a>
    </div>
-   <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4aHRhZWlkYXZjNzd0cXU4dnl2bnZ1YXE0YWx2Mm5mZGZ6amlvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" height="400"/>
 </div>
 </div>
-
----
 
 
 ### :technologist: About Me :
@@ -44,7 +39,9 @@ And Vim. Yes, willingly.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
+![](https://githubcard.com/fit-s-u-m.svg?d=gNFVySo_)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
 
 ---
