@@ -40,11 +40,13 @@ And Vim. Yes, willingly.
 
 ### :fire: My Stats :
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fit-s-u-m&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/) -->
 <!-- ![](https://githubcard.com/fit-s-u-m.svg?d=gNFVySo_) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
+ <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 🚀 Fun Facts
