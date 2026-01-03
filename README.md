@@ -12,9 +12,10 @@
    </div>
 </div>
 </div>
+<div style="background-color:#262920; color:#ebdbb2; padding:10px; border-radius:8px;">
 
 
-### :technologist: About Me :
+### :technologist: ![About Me:](https://img.shields.io/badge/About%20Me-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I use Arch btw.
@@ -23,10 +24,11 @@ And Vim. Yes, willingly.
 - :zap: Passionate about math, algorithms, and creating interactive tools for learning.
 - :video_game: Enjoy building games
 - :seedling:  Currently focused on **Retrieval-Augmented Generation (RAG)** and **vector stores**, learning how to integrate LLMs with structured external knowledge sources in practical, reliable ways.
+
   
 ---
 
-### 🎥: My Youtube Videos :
+### 🎥: ![My Youtube Videos:](https://img.shields.io/badge/My%20Youtube%20Videos-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BEGIN YOUTUBE-CARDS -->
 [![I'm sexy and I know it with maths, Explained in amaharic](https://ytcards.demolab.com/?id=BTROifvq4Fk&title=I%27m+sexy+and+I+know+it+with+maths%2C+Explained+in+amaharic&lang=en&timestamp=1766926478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I'm sexy and I know it with maths, Explained in amaharic")](https://www.youtube.com/watch?v=BTROifvq4Fk)
 [![maths meme in Amaharic, 8i=infinity?](https://ytcards.demolab.com/?id=ceZKn9HJzy8&title=maths+meme+in+Amaharic%2C+8i%3Dinfinity%3F&lang=en&timestamp=1766524291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "maths meme in Amaharic, 8i=infinity?")](https://www.youtube.com/watch?v=ceZKn9HJzy8)
@@ -36,33 +38,20 @@ And Vim. Yes, willingly.
 [![Iterator Pattern, In Amharic](https://ytcards.demolab.com/?id=USq1NnfhV2Y&title=Iterator+Pattern%2C+In+Amharic&lang=en&timestamp=1715626214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Iterator Pattern, In Amharic")](https://www.youtube.com/watch?v=USq1NnfhV2Y)
 <!-- END YOUTUBE-CARDS -->
 
----
-
-### :fire: My Stats :
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fit-s-u-m&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/) -->
-<!-- ![](https://githubcard.com/fit-s-u-m.svg?d=gNFVySo_) -->
-
- <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fit-s-u-m&theme=dayfox)](https://git.io/streak-stats) -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=fit-s-u-m&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
----
-🚀 Fun Facts
+🚀 ![Fun facts:](https://img.shields.io/badge/Fun%20facts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 
 - I don’t use a mouse — I fight it.
 - I code fast because Vim won’t let me rest.
 - My config files are worth more than my laptop.
 
 ---
-☕ Support My Work
+☕  ![Support My Work:](https://img.shields.io/badge/Support%20My%20Work-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 
 Send coffee. Or merge my PRs. Preferably both.
   
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand:  ![Blog posts:](https://img.shields.io/badge/Blog%20posts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BLOG-POST-LIST:START -->
 - [Personal Notes](https://fit-s-u-m.github.io/)
 - [bubble-sort](https://fit-s-u-m.github.io/Algorithms/bubble-sort)
