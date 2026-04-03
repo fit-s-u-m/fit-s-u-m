@@ -30,12 +30,7 @@ And Vim. Yes, willingly.
 
 ### 🎥: ![My Youtube Videos:](https://img.shields.io/badge/My%20Youtube%20Videos-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Live March 28](https://ytcards.demolab.com/?id=Z77WJdvuGes&title=Live+March+28&lang=en&timestamp=1774745588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=Z77WJdvuGes)
-[![Make Ethiopian Calander a wiget](https://ytcards.demolab.com/?id=cQ2thHkQ6Yk&title=Make+Ethiopian+Calander+a+wiget&lang=en&timestamp=1774710846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Ethiopian Calander a wiget")](https://www.youtube.com/watch?v=cQ2thHkQ6Yk)
-[![I'm sexy and I know it with maths, Explained in amaharic](https://ytcards.demolab.com/?id=BTROifvq4Fk&title=I%27m+sexy+and+I+know+it+with+maths%2C+Explained+in+amaharic&lang=en&timestamp=1766926478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I'm sexy and I know it with maths, Explained in amaharic")](https://www.youtube.com/watch?v=BTROifvq4Fk)
-[![maths meme in Amaharic, 8i=infinity?](https://ytcards.demolab.com/?id=ceZKn9HJzy8&title=maths+meme+in+Amaharic%2C+8i%3Dinfinity%3F&lang=en&timestamp=1766524291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "maths meme in Amaharic, 8i=infinity?")](https://www.youtube.com/watch?v=ceZKn9HJzy8)
-[![Functional Programming in Amharic](https://ytcards.demolab.com/?id=9vA79K6VbAw&title=Functional+Programming+in+Amharic&lang=en&timestamp=1761318972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Functional Programming in Amharic")](https://www.youtube.com/watch?v=9vA79K6VbAw)
-[![OOP VS Functional Programming in Amaharic](https://ytcards.demolab.com/?id=8znC9EPbcUk&title=OOP+VS+Functional+Programming+in+Amaharic&lang=en&timestamp=1761159559&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OOP VS Functional Programming in Amaharic")](https://www.youtube.com/watch?v=8znC9EPbcUk)
+
 <!-- END YOUTUBE-CARDS -->
 
 🚀 ![Fun facts:](https://img.shields.io/badge/Fun%20facts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
