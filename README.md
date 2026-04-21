@@ -30,12 +30,7 @@ And Vim. Yes, willingly.
 
 ### 🎥: ![My Youtube Videos:](https://img.shields.io/badge/My%20Youtube%20Videos-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Live March 28](https://ytcards.demolab.com/?id=pVzAgBbYg0A&title=Live+March+28&lang=en&timestamp=1776797047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=pVzAgBbYg0A)
-[![Live March 28](https://ytcards.demolab.com/?id=Xs_IcjRSKbo&title=Live+March+28&lang=en&timestamp=1776795925&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=Xs_IcjRSKbo)
-[![Live March 28](https://ytcards.demolab.com/?id=XttuOS-7gJY&title=Live+March+28&lang=en&timestamp=1775432922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=XttuOS-7gJY)
-[![Live March 28](https://ytcards.demolab.com/?id=Z77WJdvuGes&title=Live+March+28&lang=en&timestamp=1774745588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=Z77WJdvuGes)
-[![Make Ethiopian Calander a wiget](https://ytcards.demolab.com/?id=cQ2thHkQ6Yk&title=Make+Ethiopian+Calander+a+wiget&lang=en&timestamp=1774710846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Ethiopian Calander a wiget")](https://www.youtube.com/watch?v=cQ2thHkQ6Yk)
-[![I'm sexy and I know it with maths, Explained in amaharic](https://ytcards.demolab.com/?id=BTROifvq4Fk&title=I%27m+sexy+and+I+know+it+with+maths%2C+Explained+in+amaharic&lang=en&timestamp=1766926478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I'm sexy and I know it with maths, Explained in amaharic")](https://www.youtube.com/watch?v=BTROifvq4Fk)
+
 <!-- END YOUTUBE-CARDS -->
 
 🚀 ![Fun facts:](https://img.shields.io/badge/Fun%20facts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
