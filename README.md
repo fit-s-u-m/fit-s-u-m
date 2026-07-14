@@ -30,7 +30,12 @@ And Vim. Yes, willingly.
 
 ### 🎥: ![My Youtube Videos:](https://img.shields.io/badge/My%20Youtube%20Videos-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Nehemiah Live Stream](https://ytcards.demolab.com/?id=HNSbuGAqGto&title=Nehemiah+Live+Stream&lang=en&timestamp=1782708272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nehemiah Live Stream")](https://www.youtube.com/watch?v=HNSbuGAqGto)
+[![Nehemiah Live Stream](https://ytcards.demolab.com/?id=IBWAa9Ak9HY&title=Nehemiah+Live+Stream&lang=en&timestamp=1777020234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nehemiah Live Stream")](https://www.youtube.com/watch?v=IBWAa9Ak9HY)
+[![Nehemiah Live Stream](https://ytcards.demolab.com/?id=Psaz_VuaizA&title=Nehemiah+Live+Stream&lang=en&timestamp=1777014191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nehemiah Live Stream")](https://www.youtube.com/watch?v=Psaz_VuaizA)
+[![Live March 28](https://ytcards.demolab.com/?id=pVzAgBbYg0A&title=Live+March+28&lang=en&timestamp=1776849024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=pVzAgBbYg0A)
+[![Live March 28](https://ytcards.demolab.com/?id=XttuOS-7gJY&title=Live+March+28&lang=en&timestamp=1775432922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=XttuOS-7gJY)
+[![Live March 28](https://ytcards.demolab.com/?id=Z77WJdvuGes&title=Live+March+28&lang=en&timestamp=1774745588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Live March 28")](https://www.youtube.com/watch?v=Z77WJdvuGes)
 <!-- END YOUTUBE-CARDS -->
 
 🚀 ![Fun facts:](https://img.shields.io/badge/Fun%20facts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
