@@ -54,7 +54,7 @@ Send coffee. Or merge my PRs. Preferably both.
 ### :writing_hand:  ![Blog posts:](https://img.shields.io/badge/Blog%20posts-%23ebdbb2?style=for-the-badge&logoColor=%23262920)
 <!-- BLOG-POST-LIST:START -->
 - [Personal Notes](https://fit-s-u-m.github.io/)
-- [bubble-sort](https://fit-s-u-m.github.io/Algorithms/bubble-sort)
-- [insertion-sort](https://fit-s-u-m.github.io/Algorithms/insertion-sort)
-- [selection-sort](https://fit-s-u-m.github.io/Algorithms/selection-sort)
+- [Quantum mecanics](https://fit-s-u-m.github.io/Faynnam/quantum)
+- [generatorFunction](https://fit-s-u-m.github.io/FuncitonalProgamming/generatorFunction)
+- [applicationOfMaths](https://fit-s-u-m.github.io/12-preparation/applicationOfMaths)
 <!-- BLOG-POST-LIST:END -->
